@@ -9,7 +9,7 @@
 <br>
     I’m currently learning/making:
     
-        - My blog and my own website.
+        -  
    
 <br>
 
