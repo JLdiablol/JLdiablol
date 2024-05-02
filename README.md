@@ -9,8 +9,7 @@
 <br>
     I’m currently learning/making:
     
-        -  Learning Computer Networks
-        -  Learning Computer System Security
+        -  A secure file transmission web app
    
 <br>
 
