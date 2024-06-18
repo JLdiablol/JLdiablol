@@ -9,7 +9,7 @@
 <br>
     I’m currently learning/making:
     
-        -  A secure file transmission web app
+        -  
    
 <br>
 
