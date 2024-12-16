@@ -3,7 +3,7 @@
 <h1 align="center"> Ziyang (Jack) Ling </h1>
 
 <p align="center">
-    I am a third-year undergraduate computer science student. 
+    I am a fourth-year undergraduate computer science student. 
 <br>
     I love to learn new technologies and stuff related to cybersecurity.
 <br>
